@@ -12,6 +12,7 @@ The main goal of project - learn how to use variable number of functions argumne
 Run `make` to compile `libftprintf.a` static library. 
 
 This library provides function `int ft_printf(const char *fmt, ...)`.
+
 Necessary header file `ft_printf.h` locates in root directory.
 
 ## Functionality
